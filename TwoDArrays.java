@@ -31,6 +31,13 @@ public class TwoDArrays {
     }
 }
 
+
+
+
+//-------------------------------------------------------------------------------------------------------------
+
+
+
 // Question 2:  
 // find x in  2d array.. nd print its index where it found..
 import java.util.*;
