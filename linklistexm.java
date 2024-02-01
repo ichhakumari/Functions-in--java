@@ -1,5 +1,11 @@
+// link list , add and remove item from list at begining and ending of list...
 public class linklistexm {
     node head;
+    private int size;
+
+    linklistexm() { // constructor
+        this.size = 0;
+    }
 
     class node {
         String data;
@@ -8,6 +14,7 @@ public class linklistexm {
         node(String data) {
             this.data = data;
             this.next = null;
+            size++;
         }
     }
 
@@ -53,6 +60,45 @@ public class linklistexm {
 
     }
 
+    // delete first
+    public void deletefirst() {
+        if (head == null) {
+            System.out.println("list is empty");
+            return;
+        }
+        size--;
+
+        head = head.next;
+    }
+
+    // delete last
+    public void deletelast() {
+        if (head == null) {
+            System.out.println("list is empty");
+            return;
+        }
+        size--;
+
+        if (head.next == null) {
+            head = null;
+            return;
+        }
+
+        node secondLast = head;
+        node lastNode = head.next;
+        while (lastNode.next != null) {
+            lastNode = lastNode.next;
+            secondLast = secondLast.next;
+        }
+        secondLast.next = null;
+
+    }
+
+    // size
+    public int getSize() {
+        return size;
+    }
+
     public static void main(String[] args) {
         linklistexm list = new linklistexm();
         list.addfirst("a");
@@ -62,5 +108,17 @@ public class linklistexm {
 
         list.addlast("list");
         list.printList();
+
+        System.out.println(list.getSize());
+
+        System.out.println("after deletion");
+
+        list.deletefirst();
+        list.printList();
+
+        list.deletelast();
+        list.printList();
+
+        System.out.println(list.getSize());
     }
 }
