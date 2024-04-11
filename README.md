@@ -7,8 +7,8 @@
 <ul>
 <caption >Basic concepts of OOPs are:</caption>
 
-Object
-Class
+<li>Object</li>
+<li>Class</li>
 Inheritance
 Polymorphism
 Abstraction
