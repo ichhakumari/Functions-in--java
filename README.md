@@ -7,10 +7,10 @@
 <ul>
 <caption >Basic concepts of OOPs are:</caption>
 
-    <li>Object</li>
-    <li>Class</li>
-    <li>Inheritance</li>
-    <li>Polymorphism</li>
+    <li> Object</li>
+    <li> Class</li>
+    <li> Inheritance</li>
+    <li> Polymorphism</li>
     <li> Abstraction </li>
    <li> Encapsulation</li>
         </ul></p>
