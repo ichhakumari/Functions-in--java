@@ -10,8 +10,8 @@
     <li>Object</li>
     <li>Class</li>
     <li>Inheritance</li>
-        Polymorphism
-        Abstraction
-        Encapsulation
+    <li>Polymorphism</li>
+    <li> Abstraction </li>
+      <li> Encapsulation</li>
         </ul></p>
 </ul>
