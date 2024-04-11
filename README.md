@@ -12,6 +12,6 @@
     <li>Inheritance</li>
     <li>Polymorphism</li>
     <li> Abstraction </li>
-      <li> Encapsulation</li>
+   <li> Encapsulation</li>
         </ul></p>
 </ul>
