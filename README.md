@@ -3,4 +3,14 @@
 <H3> Features of Java</H3>
 <ul>
   <li>Object-oriented</li>
+  <p> Object-oriented programming (OOPs) is a methodology that simplifies software development and maintenance by providing some rules.
+<ul>
+<caption >Basic concepts of OOPs are:</caption>
+
+Object
+Class
+Inheritance
+Polymorphism
+Abstraction
+Encapsulation</ul></p>
 </ul>
