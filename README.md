@@ -17,5 +17,6 @@
 
   <li> Platform Independent </li>
   <li>Secured</li>
-  <li></li>
+  <li>Robust</li>
+  <li>Portable</li>
 </ul>
