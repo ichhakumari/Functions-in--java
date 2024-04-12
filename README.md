@@ -6,12 +6,12 @@
   <p> Object-oriented programming (OOPs) is a methodology that simplifies software development and maintenance by providing some rules.
 <ul>
 <caption >Basic concepts of OOPs are:</caption>
-
     <li> Object</li>
     <li> Class</li>
     <li> Inheritance</li>
     <li> Polymorphism</li>
     <li> Abstraction </li>
    <li> Encapsulation</li>
-        </ul></p>
+</ul>
+</p>
 </ul>
