@@ -14,4 +14,6 @@
    <li> Encapsulation</li>
 </ul>
 </p>
+
+  <li> Platform Independent </li>
 </ul>
