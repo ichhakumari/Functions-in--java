@@ -16,4 +16,6 @@
 </p>
 
   <li> Platform Independent </li>
+  <li>Secured</li>
+  <li></li>
 </ul>
