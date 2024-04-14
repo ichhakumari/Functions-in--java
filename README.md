@@ -14,7 +14,6 @@
    <li> Encapsulation</li>
 </ul>
 </p>
-
   <li> Platform Independent </li>
   <li>Secured</li>
   <li>Robust</li>
@@ -23,4 +22,5 @@
   <li>Dynamic</li>
 </ul>
 
+<h3>  JDK, JRE, and JVM</h3>
 <img src="https://static.javatpoint.com/images/jdk2.png">
