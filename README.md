@@ -14,6 +14,7 @@
    <li> Encapsulation</li>
 </ul>
 </p>
+<img src="">
 
   <li> Platform Independent </li>
   <li>Secured</li>
