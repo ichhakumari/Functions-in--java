@@ -14,7 +14,7 @@
    <li> Encapsulation</li>
 </ul>
 </p>
-<img src="">
+<img src="https://static.javatpoint.com/images/jdk2.png">
 
   <li> Platform Independent </li>
   <li>Secured</li>
